@@ -6,3 +6,6 @@ Tuomas, Timo
 
 ## Project plan
 Do stuff
+
+## Project client
+Company X
